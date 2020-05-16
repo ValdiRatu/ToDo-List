@@ -1,0 +1,4 @@
+com.mastfrog.jackson.OptionalSerializer
+com.mastfrog.jackson.LocaleJacksonConfigurer
+com.mastfrog.jackson.JavaTimeConfigurer
+com.mastfrog.jackson.OptionalJavaUtilSerializer
